@@ -1,0 +1,1 @@
+D:\projects-microsoft\surface_ui\CSharpUI\CSharpUI\CSharpUI.csproj;x86
