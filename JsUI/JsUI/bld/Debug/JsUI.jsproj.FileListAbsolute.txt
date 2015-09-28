@@ -1,0 +1,16 @@
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bin\Debug\ReverseMap\resources.pri
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bin\Debug\AppxManifest.xml
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bin\Debug\JsUI.build.appxrecipe
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bld\Debug\ResourceHandlingTask.state
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bld\Debug\priconfig.xml
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bld\Debug\priconfig.xml.intermediate
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bld\Debug\layout.resfiles
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bld\Debug\layout.resfiles.intermediate
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bld\Debug\resources.resfiles
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bld\Debug\resources.resfiles.intermediate
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bld\Debug\pri.resfiles
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bld\Debug\pri.resfiles.intermediate
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bld\Debug\qualifiers.txt
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bld\Debug\qualifiers.txt.intermediate
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\projects-microsoft\surface_ui\JsUI\JsUI\bld\Debug\ProjectArchitectures.txt
